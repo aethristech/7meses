@@ -1,5 +1,5 @@
-site/node_modules
-site/dist
-site/dist-ssr
-site/*.local
+node_modules
+dist
+dist-ssr
+*.local
 .DS_Store
